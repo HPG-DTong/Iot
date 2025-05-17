@@ -22,9 +22,19 @@ This project is an Internet of Things (IoT) application that integrates ESP32 se
 
 ## 🔌 Features
 
-- 📡 Real-time sensor data sent to Firebase
-- 📱 Android interface to display/control sensor data
+- 📡 Real-time sensor data sent to Firebase  
+- 📱 Android interface to display/control sensor data  
 - 🌐 Modular structure (ESP32, App, Interface separated)
+
+---
+
+## 🎥 Demo Video
+
+> 📌 You can insert your app demo video below.
+
+[![Watch the demo](https://img.youtube.com/vi/WLsMWRJJ_2E/0.jp)](https://youtu.be/WLsMWRJJ_2E)
+
+> Replace `VIDEO_ID_HERE` with the actual YouTube video ID.
 
 ---
 
@@ -42,21 +52,18 @@ This project is an Internet of Things (IoT) application that integrates ESP32 se
 ### 3. Sensor Interface (CamBien)
 - Explore the interface code in `CamBien/`
 
-
 ---
 
 ## 🔧 Requirements
 
-- ESP32 board
-- Android device
-- Firebase account
-- Arduino IDE
-
+- ESP32 board  
+- Android device  
+- Firebase account  
+- Arduino IDE  
 
 ---
 
 ## 📬 Contact
 
-- Phone: 0389333814
-- Email: nguyenductongpro@gmail.com
-
+- 📱 Phone: 0389333814  
+- 📧 Email: nguyenductongpro@gmail.com
