@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389636245939",
+    "project_id": "cambiennhiet-d28ff",
+    "storage_bucket": "cambiennhiet-d28ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389636245939:android:d0ef3faeeb2ec3ad8de3c6",
+        "android_client_info": {
+          "package_name": "com.example.cambien"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmLY4O9HHlQqlAoY7a5p-rKu1B3oxiXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
