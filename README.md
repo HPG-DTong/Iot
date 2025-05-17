@@ -28,7 +28,23 @@ This project is an Internet of Things (IoT) application that integrates ESP32 se
 
 ---
 
+## 📸 App Demo Screenshots
+
+Here are some screenshots of the application:
+
+
+<p align="center">
+  <img src="PT/1.png" alt="Đăng ký" width="200"/>
+  <img src="PT/2.png" alt="Đăng nhập" width="200"/>
+  <img src="PT/3.png" alt="Giao diện chính" width="200"/>
+</p>
+
+
+
+
+
 ## 🎥 Demo Video
+
 
 > 📌 You can insert your app demo video below.
 
